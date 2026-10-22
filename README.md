@@ -1,4 +1,4 @@
-# 🎯 Dashboard Valorant — Performances des agents
+# Dashboard Valorant — Performances des agents
 
 **Projet individuel — Visualisation de données | Thématique : les jeux vidéo**
 Adam Morin — BUT Science des Données (VCOD FA)
